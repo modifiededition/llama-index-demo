@@ -1,6 +1,4 @@
 """
-This is main file written in python.
+This is main file written in python. Require a function named main.
 """
-
-Require a function named main.
 
